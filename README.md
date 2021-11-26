@@ -1,6 +1,7 @@
-# clean_architecture
+# Clean Architecture
 
-A new Flutter project.
+This is a study project to practice TDD and a good approach of Clean Architecture for flutter projects.
+It is based on [Reso Coder](https://resocoder.com/category/tutorials/flutter/tdd-clean-architecture/) series. This is fully implemented with flutter 2.5.1 and dart 2.14.2. So it's a totally Null Safety version (to reach it, I had to change a few things from the original tutorial).
 
 ## Getting Started
 
